@@ -1,4 +1,4 @@
-update=Thursday, 18 July 2019 at 22:17:30
+update=Sunday, 18 August 2019 at 18:43:49
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=seventykeys.net
+LastNetListRead=fiftyseven.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

@@ -1,4 +1,4 @@
-(module LCD-320x240 (layer F.Cu) (tedit 5D554011)
+(module LCD-320x240 (layer F.Cu) (tedit 5D5A9894)
   (fp_text reference REF** (at 0.29 -14.33) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -81,4 +81,9 @@
   (pad 33 smd rect (at 0.34 6.25 90) (size 0.3 1.2) (layers B.Cu B.Paste B.Mask))
   (pad 34 smd rect (at 0.34 6.75 90) (size 0.3 1.2) (layers B.Cu B.Paste B.Mask))
   (pad 35 smd rect (at 0.34 7.25 90) (size 0.3 1.2) (layers B.Cu B.Paste B.Mask))
+  (model ${KIPRJMOD}/541324062.stp
+    (offset (xyz 0.5 0 -1.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 90))
+  )
 )
